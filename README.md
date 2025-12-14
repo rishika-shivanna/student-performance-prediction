@@ -6,7 +6,6 @@ This repository contains my Data Mining course project for CS 435/535.
 
 ## Files
 - `data_mining_project.ipynb` – Full data preprocessing, feature engineering, modeling, and analysis
-- `Data Mining final project report.pdf` – Detailed project report explaining methodology, results, and insights
 
 ## Dataset
 Open University Learning Analytics Dataset (OULAD)
